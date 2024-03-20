@@ -7,7 +7,7 @@ Author: [Suhyun Kim](https://github.com/ppsrac)
 
 # 리눅스에서 디스코드를 수동으로 업데이트하기 귀찮으신가요?
 
-저자는 그것이 귀찮아서 이 프로젝트를 간단하게 만들었습니다.
+저자는 그것이 귀찮아서 이 프로젝트를 간단하게 만들었습니다. `install.sh`파일을 실행하면 앞으로는 귀찮게 `.deb`파일을 받을 필요 없이 부팅때마다 자동으로 업데이트를 할것입니다. 
 
 ## 설치 방법
 
@@ -35,7 +35,7 @@ sudo에 대한 비밀번호를 `/etc/systemd/system/discord_auto_update.service`
 _____
 
 # Tired of Manually Updating Discord on Linux?
-The author found it cumbersome and thus created this project for simplicity.
+The author found it cumbersome and thus created this project for simplicity. By executing the `install.sh` file, you will no longer need to manually download `.deb` files, as updates will automatically be applied at each system boot.
 
 ## How to Install
 1. Perform a git clone.
