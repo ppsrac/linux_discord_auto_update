@@ -1,3 +1,10 @@
+# Discord Auto Update for Linux
+[한국어](#리눅스에서-디스코드를-다시-업데이트하기-귀찮으신가요) | [English](#tired-of-manually-updating-discord-on-linux)
+
+저자: [김수현](https://github.com/ppsrac)
+
+Author: [Suhyun Kim](https://github.com/ppsrac)
+
 # 리눅스에서 디스코드를 다시 업데이트하기 귀찮으신가요?
 
 저자는 그것이 귀찮아서 이 프로젝트를 간단하게 만들었습니다.
