@@ -13,6 +13,8 @@ After=network.target
 [Service]
 Type=simple
 ExecStart=/usr/bin/discord-auto-update/discord_auto_update $pw
+Restart=on-failure
+RestartSec=10
 
 [Install]
 WantedBy=multi-user.target"
